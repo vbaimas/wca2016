@@ -1564,16 +1564,6 @@ input[type='submit']:hover {
     display: block;
 }
 
-/*.main-navigation {
-    background: #4191ce;
-    bottom: -4.375rem;
-    font-family: "Roboto", sans-serif;
-    left: 0;
-    position: absolute;
-    text-align: left;
-    width: 100%;
-} */
-
 .main-navigation ul {
     margin: 0 auto;
     max-width: 62rem;
