@@ -1,3 +1,14 @@
+/************************************** ADD HERE ANY ADDITONAL CSS ************************************/
+
+
+
+
+
+
+
+
+/*******************************************************************************************************/
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -48,21 +59,6 @@ table {
 	border-spacing: 0;
 }
 
-footer.entry-meta .cat-links:before, footer.entry-meta .tag-links:before, footer.entry-meta .comments-link:before, footer.entry-meta .edit-link:before, .post-navigation .nav-previous:before {
-	background: transparent url('https://2015.la.wordcamp.org/files/2015/05/icons-sm.png');
-	background-repeat: no-repeat;
-	content: '';
-	display: inline-block;
-	font-weight: normal;
-	font-style: normal;
-	line-height: 1;
-	margin-right: .14815rem;
-	overflow: hidden;
-	height: 16px;
-	vertical-align: text-top;
-	width: 16px;
-}
-
 .post-navigation .nav-next:after {
 	background: transparent url('https://2015.la.wordcamp.org/files/2015/05/icons-sm.png');
 	background-repeat: no-repeat;
@@ -78,21 +74,6 @@ footer.entry-meta .cat-links:before, footer.entry-meta .tag-links:before, footer
 	width: 16px;
 }
 
-footer.entry-meta .cat-links:before {
-	background-position: 0 0;
-}
-
-footer.entry-meta .tag-links:before {
-	background-position: 0 -16px;
-}
-
-footer.entry-meta .comments-link:before {
-	background-position: 0 -32px;
-}
-
-footer.entry-meta .edit-link:before {
-	background-position: 0 -48px;
-}
 
 .post-navigation .nav-previous:before {
 	background-position: 0 -64px;
@@ -102,7 +83,7 @@ footer.entry-meta .edit-link:before {
 	background-position: 0 -80px;
 }
 
-/* Styles */
+/*************************************************** Styles **************************************************/
 html {
 	font-size: .75rem;
 }
@@ -690,18 +671,7 @@ article.page {
 	text-align: center;
 }
 
-footer.entry-meta {
-	border-bottom: 1px solid #fdcd94;
-	border-top: 1px solid #fdcd94;
-	color: #cfc0ba;
-	line-height: 1.5;
-	margin: 2.25rem 0 0;
-	padding: .5rem 0;
-}
 
-footer.entry-meta .sep {
-	margin: 0 .33333rem;
-}
 
 .post-navigation {
 	line-height: 1.5;
@@ -882,70 +852,6 @@ footer.entry-meta .sep {
 	color: #e97067;
 }
 
-.site-footer {
-	background: white;
-}
-
-#footer-widgets {
-	margin: 0 auto;
-	max-width: 62rem;
-	padding: 1.125rem;
-}
-
-#footer-widgets:after {
-	clear: both;
-	content: '';
-	display: table;
-}
-
-#footer-widget-1,
-#footer-widget-2,
-#footer-widget-3 {
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-	padding: 1rem;
-}
-
-@media screen and (min-width: 576px) {
-	#footer-widget-1,
-						                                                                                                                                                                      #footer-widget-2,
-						                                                                                                                                                                      #footer-widget-3 {
-		float: left;
-		width: 33.33333%;
-	}
-}
-
-@media print,screen and (min-width: 4768px) {
-	#footer-widget-1,
-						                                                                                                                                                                      #footer-widget-2,
-						                                                                                                                                                                      #footer-widget-3 {
-		width: 20%;
-	}
-}
-
-#footer-widget-4 {
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-	padding: 1rem;
-}
-
-@media screen and (min-width: 576px) {
-	#footer-widget-4 {
-		clear: both;
-		margin-top: 1rem;
-	}
-}
-
-@media print,screen and (min-width: 4768px) {
-	#footer-widget-4 {
-		clear: none;
-		float: right;
-		margin-top: 0;
-		width: 40%;
-	}
-}
 
 .site-info {
 	background: #0e5a6a;
@@ -1275,3 +1181,116 @@ aside#text-6 h4 {
 	color: #125080;
 	font-family: 'Roboto Slab';
 }
+
+/****************************************** FOOTER *********************************************/
+
+
+footer.entry-meta .cat-links:before, footer.entry-meta .tag-links:before, footer.entry-meta .comments-link:before, footer.entry-meta .edit-link:before, .post-navigation .nav-previous:before {
+	background: transparent url('https://2015.la.wordcamp.org/files/2015/05/icons-sm.png');
+	background-repeat: no-repeat;
+	content: '';
+	display: inline-block;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 1;
+	margin-right: .14815rem;
+	overflow: hidden;
+	height: 16px;
+	vertical-align: text-top;
+	width: 16px;
+}
+
+footer.entry-meta .cat-links:before {
+	background-position: 0 0;
+}
+
+footer.entry-meta .tag-links:before {
+	background-position: 0 -16px;
+}
+
+footer.entry-meta .comments-link:before {
+	background-position: 0 -32px;
+}
+
+footer.entry-meta .edit-link:before {
+	background-position: 0 -48px;
+}
+
+footer.entry-meta {
+	border-bottom: 1px solid #fdcd94;
+	border-top: 1px solid #fdcd94;
+	color: #cfc0ba;
+	line-height: 1.5;
+	margin: 2.25rem 0 0;
+	padding: .5rem 0;
+}
+
+footer.entry-meta .sep {
+	margin: 0 .33333rem;
+}
+
+.site-footer {
+	background: white;
+}
+
+#footer-widgets {
+	margin: 0 auto;
+	max-width: 62rem;
+	padding: 1.125rem;
+}
+
+#footer-widgets:after {
+	clear: both;
+	content: '';
+	display: table;
+}
+
+#footer-widget-1,
+#footer-widget-2,
+#footer-widget-3 {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 1rem;
+}
+
+@media screen and (min-width: 576px) {
+	#footer-widget-1,
+						                                                                                                                                                                      #footer-widget-2,
+						                                                                                                                                                                      #footer-widget-3 {
+		float: left;
+		width: 33.33333%;
+	}
+}
+
+@media print,screen and (min-width: 4768px) {
+	#footer-widget-1,
+						                                                                                                                                                                      #footer-widget-2,
+						                                                                                                                                                                      #footer-widget-3 {
+		width: 20%;
+	}
+}
+
+#footer-widget-4 {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 1rem;
+}
+
+@media screen and (min-width: 576px) {
+	#footer-widget-4 {
+		clear: both;
+		margin-top: 1rem;
+	}
+}
+
+@media print,screen and (min-width: 4768px) {
+	#footer-widget-4 {
+		clear: none;
+		float: right;
+		margin-top: 0;
+		width: 40%;
+	}
+}
+
