@@ -211,7 +211,7 @@ input[type='submit']:hover {
 }
 
 .main-navigation ul > li a {
-	color: #62aa9f;
+	color: #fff;
 	display: block;
 	padding: 1.6875rem .66667rem 1.6875rem 0;
 	text-decoration: none;
@@ -223,8 +223,8 @@ input[type='submit']:hover {
 }
 
 .main-navigation ul > li a:before {
-	color: #e3d6ca;
-	content: '|';
+	color: #125080;
+	content: '/';
 	margin-right: .75rem;
 }
 
