@@ -853,21 +853,21 @@ article.page {
 
 
 .site-info {
-    background: #4191ce;
+    background: #0e5a6a;
     background-image: url('https://2015.la.wordcamp.org/files/2015/05/binding-dark.png');
     padding: 3.79688rem 1rem;
     text-align: center;
 }
 
 .site-info .site-info-generator {
-	background: url('http://2016.athens.wordcamp.org/files/2016/06/footer.png'') 50% 0 no-repeat;
-	color: white;
-	display: block;
-	padding-top: 5.0625rem;
+    background: url('https://2015.la.wordcamp.org/files/2015/05/logo-footer.png') 50% 0 no-repeat;
+    color: white;
+    display: block;
+    padding-top: 5.0625rem;
 }
 
 .site-info .site-info-generator:hover {
-	color: #fdc17b;
+    color: #fdc17b;
 }
 
 .site-info .site-info-network {
