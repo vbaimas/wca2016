@@ -443,7 +443,6 @@ h1, h2, h3, h4, h5, h6 {
 article.post,
 article.page {
 	background-color: white;
-	background-image: url('https://2015.la.wordcamp.org/files/2015/05/divider-post.png'), url('https://2015.la.wordcamp.org/files/2015/05/divider-post-after.png');
 	background-position: 0 0, 50% 100%;
 	background-repeat: no-repeat, no-repeat;
 	border-radius: 2px;
@@ -454,6 +453,7 @@ article.page {
 	padding: 2.53125rem;
 	padding-top: 9.84375rem;
 	padding-bottom: 123px;
+	border-top: 10px solid #4191ce;
 }
 
 .entry-header {
