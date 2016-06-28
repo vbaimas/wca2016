@@ -222,7 +222,7 @@ input[type='submit']:hover {
 	display: block;
 	padding: 1.6875rem .66667rem 1.6875rem 0;
 	text-decoration: none;
-	text-transform: uppercase;
+	text-transform: none;
 	-moz-transition: color 300ms;
 	-o-transition: color 300ms;
 	-webkit-transition: color 300ms;
