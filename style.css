@@ -854,6 +854,7 @@ article.page {
 
 .site-info {
 	background: #4191ce;
+	background: url('http://2016.athens.wordcamp.org/files/2016/06/footer.png'') 50% 0 no-repeat;
 	padding: 3.79688rem 1rem;
 	text-align: center;
 }
