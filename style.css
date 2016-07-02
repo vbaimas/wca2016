@@ -605,7 +605,8 @@ article.page {
 .comment-content blockquote {
 	border-bottom: 1px solid #1aaacd;
 	border-top: 1px solid #1aaacd;
-	font-family: "Crete Round", serif;
+	font-family: "Roboto Slab", serif;
+	font-style: italic;
 	padding: 1rem;
 }
 
