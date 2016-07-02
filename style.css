@@ -409,10 +409,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main {
-	background: url('http://2016.athens.wordcamp.org/files/2016/06/footer-content.png') 50% 100% no-repeat;
 	margin: 3.375rem auto 2.25rem;
 	max-width: 62rem;
-	padding-bottom: 11.59375rem;
 }
 
 #main:after {
@@ -869,15 +867,16 @@ article.page {
 }
 
 .site-info .site-info-generator {
-    background: url('http://2016.athens.wordcamp.org/files/2016/06/footer.png') 50% 0 no-repeat;
-    color: white;
-    display: block;
-    padding-top: 5.0625rem;
+    background: url('http://2016.athens.wordcamp.org/files/2016/06/wordcamp_logo.png') 50% 0 no-repeat;
+	color: #fff;
+	display: block;
+	padding-top: 6rem;
+	background-size: 120px;
 }
 
 @media screen and (max-width: 1023px) {
 	.site-info .site-info-generator {
-	    padding-top: 6.5em;
+	    padding-top: 9.5em;
 	}
 }
 
