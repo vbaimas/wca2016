@@ -112,7 +112,7 @@ html {
 body {
 	background: #ece3db;
 	background-image: url('http://2016.athens.wordcamp.org/files/2016/06/background.png');
-	color: #604b43;
+	color: #212121;
 	font-family: "Roboto", sans-serif;
 	font-size: 1rem;
 }
@@ -1183,14 +1183,14 @@ aside#text-6 h1 {
 	font-size: 3rem;
 	text-align: center;
 	color: #125080;
-	font-family: 'Roboto Slab';
+	font-family:inherit;
 }
 
 aside#text-6 h4 {
 	font-size: 1.8rem;
 	text-align: center;
 	color: #125080;
-	font-family: 'Roboto Slab';
+	font-family:inherit;
 }
 
 /****************************************** FOOTER *********************************************/
