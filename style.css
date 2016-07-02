@@ -139,7 +139,7 @@ textarea {
 }
 
 input[type='submit'] {
-	background: #83bcb3;
+	background: #2c7cec;
 	border: 0 none;
 	border-radius: 4px;
 	color: #e6f2f0;
@@ -155,10 +155,11 @@ input[type='submit'] {
 	width:100%;
 	margin: 8px 0 15px;
 	line-height: 1.4;
+	
 }
 
 input[type='submit']:hover {
-	background: #e97067;
+	background: #0e63d8;
 	color: white;
 }
 
