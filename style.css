@@ -368,9 +368,9 @@ input[type='submit']:hover {
 
 #after-header-widgets .textwidget img {
 	border-radius: 2px;
-	-moz-box-shadow: 0 0 12px rgba(126,99,88,0.1);
-	-webkit-box-shadow: 0 0 12px rgba(126,99,88,0.1);
-	box-shadow: 0 0 12px rgba(126,99,88,0.1);
+	-moz-box-shadow: 0 0 8px rgba(126,99,88,0.2);
+	-webkit-box-shadow: 0 0 8px rgba(126,99,88,0.2);
+	box-shadow: 0 0 8px rgba(126,99,88,0.2);
 	cursor: pointer;
 	display: block;
 	margin: 0 auto;
