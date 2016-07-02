@@ -875,6 +875,12 @@ article.page {
     padding-top: 5.0625rem;
 }
 
+@media screen and (max-width: 1023px) {
+	.site-info .site-info-generator {
+	    padding-top: 6.5em;
+	}
+}
+
 .site-info .site-info-generator:hover {
     color: #fdc17b;
 }
@@ -1070,10 +1076,6 @@ body div.sharedaddy h3.sd-title:before {
 	.site-title {
 		width: 400px;
 		height: 329px;
-	}
-
-	.site-info .site-info-generator {
-	    padding-top: 6.5em;
 	}
 }
 
