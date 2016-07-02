@@ -487,7 +487,7 @@ article.page {
 }
 
 .entry-title a:hover {
-	color: #83bcb3;
+	color: #337dba;
 }
 
 .entry-title + .entry-meta {
@@ -497,7 +497,7 @@ article.page {
 }
 
 .entry-title + .entry-meta a {
-	color: #fdc17b;
+	color: #4391d1;
 	text-decoration: none;
 	-moz-transition: color 300ms;
 	-o-transition: color 300ms;
