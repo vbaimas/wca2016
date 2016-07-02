@@ -373,9 +373,9 @@ max-width: 80%;
 
 #after-header-widgets .textwidget img {
 	border-radius: 2px;
-	-moz-box-shadow: 0 0 8px rgba(126,99,88,0.2);
-	-webkit-box-shadow: 0 0 8px rgba(126,99,88,0.2);
-	box-shadow: 0 0 8px rgba(126,99,88,0.2);
+	-moz-box-shadow: 0 0 8px rgba(126,99,88,0.3);
+	-webkit-box-shadow: 0 0 8px rgba(126,99,88,0.3);
+	box-shadow: 0 0 8px rgba(126,99,88,0.3);
 	cursor: pointer;
 	display: block;
 	margin: 0 auto;
