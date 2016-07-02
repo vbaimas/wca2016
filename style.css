@@ -373,9 +373,9 @@ max-width: 80%;
 
 #after-header-widgets .textwidget img {
 	border-radius: 2px;
-	-moz-box-shadow: 0 0 12px rgba(126,99,88,0.1);
-	-webkit-box-shadow: 0 0 12px rgba(126,99,88,0.1);
-	box-shadow: 0 0 12px rgba(126,99,88,0.1);
+	-moz-box-shadow: 0 0 8px rgba(126,99,88,0.2);
+	-webkit-box-shadow: 0 0 8px rgba(126,99,88,0.2);
+	box-shadow: 0 0 8px rgba(126,99,88,0.2);
 	cursor: pointer;
 	display: block;
 	margin: 0 auto;
@@ -513,7 +513,7 @@ article.page {
 }
 
 .entry-content > p:first-of-type {
-	font-family: "Crete Round", serif;
+	font-family: "Roboto", serif;
 	font-size: 1.125rem;
 	margin-bottom: 1.125rem;
 }
