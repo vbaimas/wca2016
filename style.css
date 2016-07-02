@@ -1245,6 +1245,7 @@ footer.entry-meta .sep {
 }
 
 #footer-widgets {
+	display: none;
 	margin: 0 auto;
 	max-width: 62rem;
 	padding: 1.125rem;
