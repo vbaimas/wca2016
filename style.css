@@ -495,9 +495,9 @@ article.page {
 }
 
 .entry-title + .entry-meta {
-	color: #cfc0ba;
-	font-family: "Crete Round", serif;
-	font-size: 1.5rem;
+	color: #959595;
+	font-family: "Roboto Slab", serif;
+	font-size: 1rem;
 }
 
 .entry-title + .entry-meta a {
