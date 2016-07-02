@@ -1071,6 +1071,10 @@ body div.sharedaddy h3.sd-title:before {
 		width: 400px;
 		height: 329px;
 	}
+
+	.site-info .site-info-generator {
+	    padding-top: 5.0625rem;
+	}
 }
 
 .site-description {
