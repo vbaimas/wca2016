@@ -107,6 +107,10 @@ html {
 	html {
 		font-size: 1.125rem;
 	}
+
+	.site-info .site-info-generator {
+	    padding-top: 6.5rem;
+	}
 }
 
 body {
