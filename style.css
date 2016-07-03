@@ -935,6 +935,9 @@ body div.sharedaddy h3.sd-title:before {
 	border-top: 1px solid #e3d6ca;
 }
 
+.wcorg-organizer-description {
+	font-size: 0.9rem;
+}
 .wcorg-organizer .wcorg-organizer-description:after {
 	clear: both;
 	content: '';
@@ -1248,6 +1251,7 @@ footer.entry-meta {
 	line-height: 1.5;
 	margin: 2.25rem 0 0;
 	padding: .5rem 0;
+	font-size: 0.9rem;
 }
 
 footer.entry-meta .sep {
