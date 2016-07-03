@@ -925,6 +925,9 @@ body div.sharedaddy h3.sd-title:before {
 	border-top: 1px solid #e3d6ca;
 }
 
+.wcorg-organizer-description {
+	font-size: 0.9rem;
+}
 .wcorg-organizer .wcorg-organizer-description:after {
 	clear: both;
 	content: '';
