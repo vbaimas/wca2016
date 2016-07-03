@@ -796,10 +796,13 @@ article.page {
 	margin: 0 0 1rem;
 }
 
+
 #primary-sidebar .widget {
+	/* comment out the sidebar icon
 	background: url('https://2015.la.wordcamp.org/files/2015/05/divider-widget.png') 50% 100% no-repeat;
 	margin: 0 0 2.53125rem;
 	padding-bottom: 3.79688rem;
+	*/
 }
 
 #primary-sidebar input[type='text'],
