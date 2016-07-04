@@ -861,7 +861,7 @@ article.page {
 	transition: color 300ms;
 }
 
-.main-navigation ul>li a:hover{color:#CFCFCF;}
+.main-navigation ul > li a:hover{color:#CFCFCF;}
 .widget li a:hover {color: #4191CE;}
 
 .site-info {
