@@ -865,7 +865,7 @@ article.page {
 	transition: color 300ms;
 }
 
-.main-navigation ul > li a:hover,
+.main-navigation ul > li a:hover {color:#125080}
 .widget li a:hover {
 	color: #125080;
 }
