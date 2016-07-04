@@ -127,12 +127,12 @@ img {
 }
 
 a {
-	color: #83bcb3;
+	color: #4191ce;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #e97067;
+	color: #0e63d8;
 }
 
 input[type='text'],
@@ -1242,13 +1242,13 @@ footer.entry-meta .edit-link:before {
 }
 
 footer.entry-meta {
-	border-bottom: 1px solid #fdcd94;
-	border-top: 1px solid #fdcd94;
-	color: #cfc0ba;
+	border-bottom: 1px solid #4191ce;
+	border-top: 1px solid #4191ce;
+	color: #aaa;
 	line-height: 1.5;
 	margin: 2.25rem 0 0;
 	padding: .5rem 0;
-	font-size: 0.9rem;
+	font-size: .9rem;
 }
 
 footer.entry-meta .sep {
