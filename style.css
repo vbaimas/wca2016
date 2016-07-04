@@ -862,9 +862,7 @@ article.page {
 }
 
 .main-navigation ul > li a:hover{color:#125080;}
-.widget li a:hover {
-	color: #e97067;
-}
+.widget li a:hover {color: #e97067;}
 
 
 .site-info {
