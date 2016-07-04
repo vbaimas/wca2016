@@ -836,7 +836,7 @@ article.page {
 }
 
 .widget .widget-title {
-	border-bottom: 1px solid #d1bca9;
+	border-bottom: 2px solid #1b80cd;
 	font-family: "Roboto", sans-serif;
 	font-size: 1.125rem;
 	font-weight: bold;
