@@ -486,7 +486,7 @@ article.page {
 }
 
 .entry-title a:hover {
-	color: #83bcb3;
+	color: #4191CE;
 }
 
 .entry-title + .entry-meta {
@@ -857,6 +857,7 @@ article.page {
 	-webkit-transition: color 300ms;
 	transition: color 300ms;
 }
+
 
 .widget li a:hover {
 	color: #4191CE;
