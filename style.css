@@ -12,6 +12,11 @@ h1.entry-title {
    color:#212121;
 }
 
+.main-navigation li {
+   float: none;
+   position: relative;
+}
+
 
 /*******************************************************************************************************/
 
@@ -204,7 +209,7 @@ max-width: 80%;
 	font-family: "Roboto", sans-serif;
 	left: 0;
 	position: absolute;
-	text-align: left;
+	text-align: center;
 	width: 100%;
 }
 
