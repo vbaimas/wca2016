@@ -846,7 +846,7 @@ article.page {
 }
 
 .widget li {
-	border-bottom: 1px solid #d1bca9;
+	border-bottom: 1px dotted #d1bca9;
 	line-height: 1.5;
 	margin: 0 0 .5rem;
 	padding-bottom: .5rem;
