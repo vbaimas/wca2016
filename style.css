@@ -861,7 +861,7 @@ article.page {
 	transition: color 300ms;
 }
 
-.main-navigation ul > li a:hover{color:#125080;}
+.main-navigation ul>li a:hover{color:#125080;}
 .widget li a:hover {color: #e97067;}
 
 
@@ -1276,6 +1276,7 @@ footer.entry-meta .sep {
 
 @media screen and (min-width: 576px) {
 	#footer-widget-1,
+						                                                                                                                                                                      
 						                                                                                                                                                                      #footer-widget-2,
 						                                                                                                                                                                      #footer-widget-3 {
 		float: left;
