@@ -245,9 +245,7 @@ max-width: 80%;
 	margin-right: .75rem;
 }
 
-.main-navigation ul > li a:hover {
-	color: #cfcfcf;
-}
+
 
 .main-navigation ul > li:first-child a:before {
 	content: '';
@@ -863,6 +861,7 @@ article.page {
 	transition: color 300ms;
 }
 
+.main-navigation ul > li a:hover,
 .widget li a:hover {
 	color: #e97067;
 }
