@@ -896,7 +896,8 @@ article.page {
 }
 
 .site-info .site-info-generator:hover {
-    color: #fdc17b;
+    color: #fff;
+   border-bottom: 1px solid #fff;
 }
 
 .site-info .site-info-network {
