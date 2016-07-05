@@ -174,6 +174,10 @@ input[type='submit']:hover {
 	position: absolute !important;
 }
 
+.home .site-header {
+	height: 100vh;
+}
+
 .site-header {
 	background: #4191ce url('http://2016.athens.wordcamp.org/files/2016/06/acropolis.jpg') 50% 100% no-repeat;
 	background-size: cover;
@@ -511,7 +515,6 @@ article.page {
 
 .entry-content > p:first-of-type {
 	font-family: "Roboto", serif;
-	font-size: 1.125rem;
 	margin-bottom: 1.125rem;
 }
 
@@ -573,7 +576,7 @@ article.page {
 	font-size: 1rem;
 }
 
-.entry-content p > a,
+.entry-content p a,
 .comment-content a {
 	border-bottom: 3px solid #b4e7f8;
     box-shadow: inset 0 -5px 0 #b4e7f8;
@@ -581,7 +584,7 @@ article.page {
     transition: background .15s cubic-bezier(.33,.66,.66,1);
 }
 
-.entry-content p > a:hover,
+.entry-content p a:hover,
 .comment-content a:hover {
 	background: #b4e7f8;
 }
