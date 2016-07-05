@@ -895,10 +895,7 @@ article.page {
 	}
 }
 
-.site-info .site-info-generator:hover {
-    color: #fff;
-   border-bottom: 1px solid #fff;
-}
+.site-info .site-info-generator:hover {color: #fff;}
 
 .site-info .site-info-network {
 	background: url('https://2016.athens.wordcamp.org/files/2016/07/header-ribbon.png') 50% 0 no-repeat;
