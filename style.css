@@ -201,6 +201,12 @@ input[type='submit']:hover {
 	text-align: center;
 }
 
+.home .site-header hgroup {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
 .site-header hgroup {
 padding: 5% 0;
 }
