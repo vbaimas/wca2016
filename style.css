@@ -18,10 +18,13 @@ h1.entry-title {
 }
 
 
-.wcorg-organizer h2{
-	font-size: 24px;
+.widget_wpcom_social_media_icons_widget .genericon{
+	font-size: 24px!important;
 }
 
+.widget_wpcom_social_media_icons_widget li a{
+	margin-right: 4px!important;
+}
 /*******************************************************************************************************/
 
 html, body, div, span, applet, object, iframe,
