@@ -15,6 +15,10 @@ h1.entry-title {
 .widget_wpcom_social_media_icons_widget .genericon{
 	font-size: 24px!important;
 }
+
+a.genericon.genericon-facebook:before{
+	color:#3b5998!important;
+}
 /*******************************************************************************************************/
 
 html, body, div, span, applet, object, iframe,
