@@ -29,6 +29,10 @@ h1.entry-title {
 a.genericon.genericon-facebook:before{
 	color:#3b5998!important;
 }
+
+a.genericon-twitter::before{
+	color: #55acee!important;
+}
 /*******************************************************************************************************/
 
 html, body, div, span, applet, object, iframe,
