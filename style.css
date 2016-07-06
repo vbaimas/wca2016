@@ -20,6 +20,9 @@ h1.entry-title {
 
 .widget_wpcom_social_media_icons_widget .genericon{
 	font-size: 24px!important;
+	background-color:#fff;
+	padding:10px;
+	border-radius:50%;
 }
 
 .widget_wpcom_social_media_icons_widget li a{
@@ -28,6 +31,10 @@ h1.entry-title {
 
 a.genericon.genericon-facebook:before{
 	color:#3b5998!important;
+}
+
+a.genericon-twitter::before{
+	color: #55acee!important;
 }
 /*******************************************************************************************************/
 
