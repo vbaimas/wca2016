@@ -29,6 +29,11 @@ h1.entry-title {
 	margin-right: 4px!important;
 }
 
+a.genericon::before{
+	color:#155080;
+}
+
+/*
 a.genericon.genericon-facebook:before{
 	color:#3b5998!important;
 }
