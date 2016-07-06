@@ -33,13 +33,20 @@ a.genericon::before{
 	color:#155080;
 }
 
-/*
-a.genericon.genericon-facebook:before{
+
+a.genericon.genericon-facebook:hover::before{
 	color:#3b5998!important;
 }
 
-a.genericon-twitter::before{
+a.genericon-twitter:hover::before{
 	color: #55acee!important;
+}
+
+a.genericon-instagram:hover::before{
+	color: #125688!important;
+}
+a.genericon-youtube:hover::before{
+	color:#bb0000!important;
 }
 /*******************************************************************************************************/
 
