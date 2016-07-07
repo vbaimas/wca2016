@@ -440,19 +440,19 @@ max-width: 80%;
 }
 
 #after-header-widgets .widget:nth-child(1) img {
-	border-top: 10px solid #ff5023;
+	border-top: 10px solid #4191ce;
 }
 
 #after-header-widgets .widget:nth-child(2) img {
-	border-top: 10px solid #ff9811;
+	border-top: 10px solid 125080;
 }
 
 #after-header-widgets .widget:nth-child(3) img {
-	border-top: 10px solid #7dd1e6;
+	border-top: 10px solid #4191ce;
 }
 
 #after-header-widgets .widget:nth-child(4) img {
-	border-top: 10px solid #7383bf;
+	border-top: 10px solid 125080;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1253,7 +1253,7 @@ aside#text-6 h4 {
 
 
 footer.entry-meta .cat-links:before, footer.entry-meta .tag-links:before, footer.entry-meta .comments-link:before, footer.entry-meta .edit-link:before, .post-navigation .nav-previous:before {
-	background: transparent url('http://2016.athens.wordcamp.org/files/2016/07/icons-sm.png');
+	background: transparent url('http://2016.athens.wordcamp.org/files/2016/07/icons-sm-1.png');
 	background-repeat: no-repeat;
 	content: '';
 	display: inline-block;
