@@ -215,11 +215,6 @@ input[type='submit']:hover {
 	height: 100vh;
 }
 
-.page .site-header {
-	background-position: 0px -150px;
-}
-
-@media print,screen and (min-width: 768px) {
 .site-header {
 	background: #4191ce url('http://2016.athens.wordcamp.org/files/2016/07/texnopolis_panoramic.jpg') 50% 100% no-repeat;
 	background-size: cover !important;
