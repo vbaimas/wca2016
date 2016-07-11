@@ -212,6 +212,7 @@ input[type='submit']:hover {
 }
 
 .home .site-header {
+	background: #4191ce url('http://2016.athens.wordcamp.org/files/2016/07/texnopolis_panoramic.jpg') 50% 100% no-repeat;
 	height: 100vh;
 }
 
