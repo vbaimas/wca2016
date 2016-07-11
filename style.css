@@ -179,9 +179,13 @@ input[type='submit']:hover {
 	height: 100vh;
 }
 
+.home .site-header {
+	background: #4191ce url('http://2016.athens.wordcamp.org/files/2016/07/texnopolis_panoramic.jpg') 50% 100% no-repeat;
+	background-position: 0px 150px;
+}
+
 .site-header {
-	background: #4191ce url('http://2016.athens.wordcamp.org/files/2016/06/acropolis.jpg') 50% 100% no-repeat;
-	background-size: cover;
+	background-size: cover !important;
 	border-top: 5px solid #4191ce;
 	margin-bottom: 7.75rem;
 	position: relative;
