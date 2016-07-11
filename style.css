@@ -1076,7 +1076,7 @@ body div.sharedaddy h3.sd-title:before {
 .site-title {
 	width: 271px;
 	height: 500px;
-	background: url('http://2016.athens.wordcamp.org/files/2016/07/logocathens2016.png') 50% 100% no-repeat;
+	background: url('http://2016.athens.wordcamp.org/files/2016/07/logocathens2016.png') no-repeat;
 	margin: 0 auto;
 	text-indent: 100%;
 	white-space: nowrap;
@@ -1088,15 +1088,15 @@ body div.sharedaddy h3.sd-title:before {
 
 @media print,screen and (min-width: 768px) {
 	.site-title {
-		width: 452px;
-		height: 208px;
+		width: 150px;
+		height: 200px;
 	}
 }
 
 @media screen and (min-width: 1024px) {
 	.site-title {
-		width: 400px;
-		height: 329px;
+		width: 300px;
+		height: 379px;
 	}
 }
 
