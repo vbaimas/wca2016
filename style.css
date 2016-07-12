@@ -383,7 +383,7 @@ max-width: 80%;
 	padding: .75rem 0;
 }
 
-.sub-menu a {
+.sub-menu .main-navigation li.current_page_item a, .main-navigation li.current-menu-item a {
 	color: #5091FF;
 }
 
