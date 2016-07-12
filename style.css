@@ -594,7 +594,8 @@ article.page {
 
 .entry-content h2,
 .comment-content h2 {
-	font-size: 2.25rem;
+	font-size: 1.688rem;
+	margin:28px 0 32px 0;
 }
 
 .entry-content h3,
