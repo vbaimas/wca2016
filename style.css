@@ -102,8 +102,14 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+	font-size: 0.8rem;
+	border: 1px solid #000;
 }
 
+td {
+    padding: 5px;
+    border: 1px solid #000;
+}
 .post-navigation .nav-next:after {
 	background: transparent url('http://2016.athens.wordcamp.org/files/2016/07/icons-sm.png');
 	background-repeat: no-repeat;
