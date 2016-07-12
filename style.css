@@ -348,7 +348,7 @@ max-width: 80%;
 }
 
 .sub-menu a {
-	color: #5091FF;
+	color: #5091FF !important;
 }
 
 #after-header-widgets {
