@@ -383,6 +383,10 @@ max-width: 80%;
 	padding: .75rem 0;
 }
 
+.sub-menu a {
+	color: #5091FF;
+}
+
 #after-header-widgets {
 	margin: 1.6875rem auto;
 	max-width: 62rem;
