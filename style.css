@@ -340,6 +340,7 @@ max-width: 80%;
 .main-navigation ul ul a {
 	padding: .75rem 0;
 	white-space: nowrap;
+	text-align: left;
 }
 
 .main-navigation ul ul a:before {
