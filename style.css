@@ -620,15 +620,14 @@ article.page {
 
 .entry-content p a,
 .comment-content a {
-	border-bottom: 3px solid #b4e7f8;
-    box-shadow: inset 0 -5px 0 #b4e7f8;
-    color: inherit;
-    transition: background .15s cubic-bezier(.33,.66,.66,1);
+    color: #4191CE;
+ 
 }
 
 .entry-content p a:hover,
 .comment-content a:hover {
-	background: #b4e7f8;
+	color:#212121;
+	border-bottom: 1px dotted #212121;
 }
 
 .entry-content strong,
